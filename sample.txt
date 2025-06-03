@@ -1,0 +1,5 @@
+learn about 
+github 
+git 
+github actions 
+CI/CD 
