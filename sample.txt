@@ -2,5 +2,4 @@ learn about
 github 
 git 
 github actions 
-how to move between commit 
 CI/CD 
